@@ -21,7 +21,7 @@
     <th>Сезон</th>
   </tr>
   <tr>
-    <td>Помоги роботу навести порядок</td><td>8</td><td>GeekBrains</td><td>Цифровой прорыв, «Россия — страна возможностей»</td><td><a href="https://github.com/MrRobinGoood/Smart-Lecture-Notes-Backend" target="_blank">Backend</a> <br><br><a href="https://github.com/MrRobinGoood/Smart-Lecture-Notes-Frontend" target="_blank">Frontend</a></td><td>Международный</td><td>30 команд</td><td>Ноябрь 2023</td>
+    <td>Интеллектуальный ассистент методиста</td><td>8</td><td>GeekBrains</td><td>Цифровой прорыв, «Россия — страна возможностей»</td><td><a href="https://github.com/MrRobinGoood/Smart-Lecture-Notes-Backend" target="_blank">Backend</a> <br><br><a href="https://github.com/MrRobinGoood/Smart-Lecture-Notes-Frontend" target="_blank">Frontend</a></td><td>Международный</td><td>30 команд</td><td>Ноябрь 2023</td>
   </tr>
   <tr>
     <td>Помоги роботу навести порядок</td><td>1</td><td>МФТИ/SberLab</td><td>Цифровой прорыв, «Россия — страна возможностей»</td><td><a href="https://github.com/MrRobinGoood/Smart-robot-manipulator-hack" target="_blank">Ссылка</a></td><td>Окружной - Южный федеральный округ</td><td>20 команд</td><td>Октябрь 2023</td>
