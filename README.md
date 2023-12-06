@@ -38,10 +38,16 @@
 <img alt="IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=fff" />&nbsp;
 <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />&nbsp;
 
-### ⚙️ Проекты
+### :clipboard: Активность
 
-[<img alt="Bank-Info" src="https://github-readme-stats.vercel.app/api/pin/?username=MrRobinGoood&repo=Bank-Info&theme=dracula">][Bank-Info]
-[<img alt="Vacancy-Handler-Backend" src="https://github-readme-stats.vercel.app/api/pin/?username=MrRobinGoood&repo=Vacancy-Handler-Backend&theme=dracula">][Vacancy-Handler-Backend]
+[![MrRobinGoood GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobinGoood)](https://github.com/anuraghazra/github-readme-stats)
+[![MrRobinGoood StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=21488734&layout=compact)](https://stackoverflow.com/users/21488734/robingoood) 
+
+### ⚙️ Проекты
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrRobinGoood&repo=Bank-Info)](https://github.com/MrRobinGoood/Bank-Info)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrRobinGoood&repo=Vacancy-Handler-Backend)]([https://github.com/MrRobinGoood/Bank-Info](https://github.com/MrRobinGoood/Vacancy-Handler-Backend))
+
+![](https://komarev.com/ghpvc/?username=MrRobinGoood)
 
 [Bank-Info]: https://github.com/MrRobinGoood/Bank-Info
 [Vacancy-Handler-Backend]: https://github.com/MrRobinGoood/Vacancy-Handler-Backend
