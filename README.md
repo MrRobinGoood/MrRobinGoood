@@ -46,7 +46,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="2">В нашем портфолио:</th>
+      <th colspan="2">В моём портфолио:</th>
     </tr>
   </thead>
   <tbody>
